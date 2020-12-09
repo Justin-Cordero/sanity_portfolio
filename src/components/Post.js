@@ -1,5 +1,9 @@
 import React from 'react';
+import sanityClient from "../client.js
+"
 
 export default function Post() {
-    return <h1>Post Page</h1>
+    return (
+
+    )
 }
