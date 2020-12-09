@@ -4,6 +4,7 @@
 node_modules
 studio/node_modules
 studio/README.md
+studio/tsconfig.json
 /.pnp
 .pnp.js
 
