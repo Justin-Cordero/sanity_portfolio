@@ -24,6 +24,7 @@ export default function NavBar() {
                     <SocialIcon url="https://twitter.com" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
                     <SocialIcon url="https://youtube.com" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
                     <SocialIcon url="https://instagram.com" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
+                    <SocialIcon url="mailto:johnsmith@johnsmith.john" className="mr-4" fgColor="#fff" style={{ height: 35, width: 35 }} />
                 </div>
             </div>
         </header>
