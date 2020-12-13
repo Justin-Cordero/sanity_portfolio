@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react';
 import sanityClient from '../client.js';
 import about_page from "../about_page.jpg";
 import imageUrlBuilder from '@sanity/image-url';
-import urlBuilder from '@sanity/image-url';
-import { buildQueries } from '@testing-library/react';
 import BlockContent from '@sanity/block-content-to-react';
 
 const builder = imageUrlBuilder(sanityClient);
